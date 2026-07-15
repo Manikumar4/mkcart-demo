@@ -3,7 +3,7 @@
 This repository contains the **demo version** of the project.
 
 The **complete source code** is available in the original FinMK repository:
-https://github.com/Manikumar4/mkcart (private)
+https://github.com/Manikumar4/MKCart (private)
 
 # 🛒 MKCart E-commerce Application
 
