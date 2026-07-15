@@ -1,3 +1,10 @@
+## 📂 Demo Repository
+
+This repository contains the **demo version** of the project.
+
+The **complete source code** is available in the original FinMK repository:
+https://github.com/Manikumar4/mkcart (private)
+
 # 🛒 MKCart E-commerce Application
 
 A full-stack e-commerce application built with React, Node.js, and MongoDB. This is a **monorepo** where the backend serves both the API and the frontend React app.
